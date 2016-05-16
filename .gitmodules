@@ -1,0 +1,3 @@
+[submodule "Code/BLDC_ros_controller"]
+	path = Code/BLDC_ros_controller
+	url = https://github.com/Neuromancer2701/BLDC_ros_controller.git
